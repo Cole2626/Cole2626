@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there 👋 
+My Name is Cole!
+
+####  Learn
+I am interested in learning more about coding and computers in general.  I want to become more familiar with using them and navigating them.
+
+#### Hobbies
+I enjoy running, mountain bike riding, reading, ping pong, and video games.
 
 <!--
 **Cole2626/Cole2626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
